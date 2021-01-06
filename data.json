@@ -1,4 +1,14 @@
 [
-  { "foo": 1 },
-  { "foo": 2 }
+  {
+    "id": "2020_12_06",
+    "files": [
+      "basket_case",
+      "breed",
+      "god_save",
+      "kiedy_bylem",
+      "seven_nation_army",
+      "sic",
+      "tata_dilera"      
+    ]
+  },
 ]
